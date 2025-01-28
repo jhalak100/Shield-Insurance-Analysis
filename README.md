@@ -3,7 +3,11 @@
 
 🔗 **View the live dashboard here:** [📊 Dashboard Live Link](https://app.powerbi.com/view?r=eyJrIjoiYWI5ZmU4ZDEtMzk3OC00NTZkLWIwNGQtOWMzZGU2YTQ0ZjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**Shield Insurance Company** is a trusted provider of comprehensive insurance, dedicated to safeguarding people from life's unexpected challenges. They stand out in the market with a strong focus on reliable coverage.
+**Shield Insurance Company**  is a leading provider of insurance services in India, with a significant presence in other countries as well.
+
+However, the management noticed a lack of actionable insights to make quick and informed decisions. To address this, they aimed to enhance their data analytics capabilities by expanding their team with skilled data analysts.
+
+During my internship at AtliQ Technologies, I worked on this project to develop a comprehensive Power BI dashboard for Shield Insurance. This dashboard provides critical insights into customer acquisition, revenue trends, and policy performance, helping the company make data-driven decisions and drive business growth.
 
 ### ⚒️ Tools Used:
 - ✅ Microsoft Excel  
