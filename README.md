@@ -1,6 +1,8 @@
 # Shield Insurance Analysis 🛡️
 ### This Project is part of data analytics virtual internship at codebasics.
 
+🔗 **View the live dashboard here:** [📊 Dashboard Live Link](https://app.powerbi.com/view?r=eyJrIjoiYWI5ZmU4ZDEtMzk3OC00NTZkLWIwNGQtOWMzZGU2YTQ0ZjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 **Shield Insurance Company** is a trusted provider of comprehensive insurance, dedicated to safeguarding people from life's unexpected challenges. They stand out in the market with a strong focus on reliable coverage.
 
 ### ⚒️ Tools Used:
@@ -73,4 +75,7 @@ This project aims to analyze customer growth and revenue trends for Shield Insur
    - Most customers (55.4%) and revenue (55.6%) come from **offline agents**, proving agents remain the key sales channel.  
    - Other sales modes have revenue shares between 12.6% and 15.6%.  
 7. **Top Policy**:  
-   - **Policy ID POL4321HEL** has 4,434 customers, making it the most popular policy.  
+   - **Policy ID POL4321HEL** has 4,434 customers, making it the most popular policy.
+
+🔗 **Check out my LinkedIn post for more details:** [🔗 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7288938936805036032/)
+
